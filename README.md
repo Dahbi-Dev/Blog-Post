@@ -1,64 +1,13 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-![Screenshot (11)](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/2a7783c5-ba31-40d7-9353-ab9722f8eeec)
-
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p>Home Page</p>
+![Screenshot 2023-07-13 013858](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/6158b024-8147-4411-8b11-960f22d0d631)
+![Screenshot 2023-07-13 013926](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/eb1be098-d934-4385-ab9c-d5769dbdafad)
+![Screenshot 2023-07-13 013945](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/2a1b5d3d-fcb2-4533-a63c-9e028f1a29de)
+![Screenshot 2023-07-13 013959](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/b0ac7d25-f8e0-4f1b-b3ef-ca1e68e152d7)
+![Screenshot 2023-07-13 014022](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/5efe1f96-24fd-4ca1-9d17-bdda6426f3c2)
+![Screenshot 2023-07-13 014037](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/b11d818b-d2a9-4eff-ba31-61f62da15290)
+![Screenshot 2023-07-13 014054](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/09832aa9-c395-45e6-8e67-cdbbbed09014)
+![Screenshot 2023-07-13 014110](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/7f24ad1c-1712-4e03-b5a0-fe71167cb088)
+![Screenshot 2023-07-13 014144](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/8836f9d8-da25-4e7d-89f4-c03faf71cc81)
+![Screenshot 2023-07-13 014204](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/fe32f244-cd21-4c73-95cc-bd4025ac575b)
+![Screenshot 2023-07-13 014219](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/32cf6c7f-60cc-4f51-9f7c-a2710c672d14)
+![Screenshot 2023-07-13 014238](https://github.com/Dahbi-Dev/Blog-Post/assets/122475783/69414acc-ce9a-4ec3-b462-473bc532448d)
